@@ -13,4 +13,5 @@ A BMI calculates an App project.
 
 
 
-![Screenshot_1700375612](https://github.com/infosabbir/bmi_app/assets/70373782/b06d904a-c93f-4607-8cf9-16c6573843d5)
+//![Screenshot_1700375612](https://github.com/infosabbir/bmi_app/assets/70373782/b06d904a-c93f-4607-8cf9-16c6573843d5)
+<img src="https://github.com/infosabbir/bmi_app/assets/70373782/b06d904a-c93f-4607-8cf9-16c6573843d5" width="200" alt="Screenshot 1">
