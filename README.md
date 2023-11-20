@@ -1,16 +1,13 @@
 # bmi_app
 
-A new Flutter project.
+A BMI calculates an App project.
 
-## Getting Started
+# This is a BMI (Body mass index) app. This app produces Bmi results when we click the calculate button.
 
-This project is a starting point for a Flutter application.
+#Resources: 
+1. Flutter SDK
+2. VS Code.
+3. An android emulator.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ScreenShot of this App:
+<img src="https://github.com/infosabbir/bmi_app/assets/70373782/b06d904a-c93f-4607-8cf9-16c6573843d5" width="200" alt="Screenshot 1">
